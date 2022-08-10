@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed -> React Web Developer ♣
+## Hi, I'm Ahmed -> [React, Next]JS Web Developer ♣
 
 <img src="./resourses/dino-game.gif" alt="Error" />
 
