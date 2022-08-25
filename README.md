@@ -1,6 +1,6 @@
-## Hi, I'm Ahmed -> [React, Next]JS Web Developer ♣
+## Hi, I'm Ahmed -> Frontend Web Developer ♣
 
-<img src="./resourses/dino-game.gif" alt="Error" />
+<img src="./resourses/dino-game.gif" alt="error: please reload page" />
 
 ## Languages & Tools 💼
 <p>
