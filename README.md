@@ -14,7 +14,8 @@
 </p>
 
 ## Find me around the web <img class="emoji" alt="earth_americas" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">
- - [linkedIn](https://www.linkedin.com/in/ahmed-Ashraf-Dev) account 💼
+ - [linkedIn](https://www.linkedin.com/in/ahmed-Ashraf-Dev) Account
+ - [Mostaql](https://mostaql.com/u/Ahmed_FoR3oN) Account
  - [Email](mailto:Ahmed.Ashraf.Dv@gmail.com) address
  - And of course GitHub you're already on
  
