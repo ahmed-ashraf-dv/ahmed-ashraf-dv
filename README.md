@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed -> Web App & Mobile App & AI App Developer ♣
+## Hi, I'm Ahmed -> ( Web & Mobile & AI ) App Developer ♣
 
 <img src="./resourses/dino-game.gif" alt="error: please reload page" />
 
