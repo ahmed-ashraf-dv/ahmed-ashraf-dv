@@ -5,7 +5,7 @@
 ## Languages & Tools 💼
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,html,css,react,nextjs,redux,tailwind,bootstrap,selenium,npm,notion,nodejs,expressjs,mysql,mongodb,python,django,postman,git,github,powershell,discord,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,ts,nodejs,expressjs,html,css,redux,tailwind,bootstrap,selenium,npm,notion,mysql,mongodb,python,django,postman,git,github,powershell,discord,figma" />
   </a>
 </p>
 
