@@ -14,4 +14,3 @@
  - [Mostaql](https://mostaql.com/u/Ahmed_FoR3oN) Account
  - [Email](mailto:Ahmed.Ashraf.Dv@gmail.com) address
  - And of course GitHub you're already on
-| ------------- | ------------- |
